@@ -19,7 +19,7 @@ In the above mentioned School district Analysis the tools used were  Python and 
 
 
   1. The Average math and reading scores are approximately same. 
-  2. The score becomes hardly shifts  from 79.0 to 78.9 for math and stays the same at 81.9 for reading. 
+  2. The score becomes shifts minutely from 79.0 to 78.9 for math and stays the same at 81.9 for reading. 
   3. The percetages has gone down for passing math from 75 to 74.8 which is very minimal change, passing reading from 86 to 85.7 which is again very minimal change, and overall  passing from 65 to 64.9.
 
 In brief the affect in district summary is negligible.
