@@ -1,12 +1,12 @@
 # School_District_Analysis.
 In the above mentioned School district Analysis the tools used were  Python and Pandas library to analyze school district data and trends in school performance
 ## Key Obejectives 
-* Create the district and school summary DataFrames.
-* Calculate the top 5 and bottom 5 performing schools.
-* Calculate the average math and reading score for students in each grade level at each school.
-* Calculate the school performance based on the spending per student.
-* Calculate the school performance based on the size of the school.
-* Calculate the school performance based on the type of school.
+* To create the district and school summary DataFrames.
+* To Calculate the top 5 and bottom 5 performing schools.
+* To calculate the average math and reading score for students in each grade level at each school.
+* To calculate the school performance based on the spending per student.
+* To calculate the school performance based on the size of the school.
+* To calculate the school performance based on the type of school.
 
 ## Overview of the school district analysis: Explain the purpose of this analysis.
 
@@ -57,6 +57,13 @@ The ranking of Thomas High school was observed to have nose dive from 2nd to 13t
   2. Scores by school spending
   
   ![Screen Shot 2021-01-24 at 2 11 37 PM](https://user-images.githubusercontent.com/75267605/105640825-2370ff00-5e4e-11eb-969b-e8bfdf020b80.png)
+  
+  
+  
+  
+  The average math and reading score stays the same for all the school spendings observed above, but the  % goes down particularly for the school Spending range $623 ~ 642 from 73 to 67 for passing math, and from 63 to 56 for overall passing.
+
+
   3. Scores by school size
   
   
@@ -69,6 +76,6 @@ The ranking of Thomas High school was observed to have nose dive from 2nd to 13t
   
 
 
-## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
 
 
