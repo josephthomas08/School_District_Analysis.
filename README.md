@@ -1,6 +1,6 @@
 # School_District_Analysis.
 In the above mentioned School district Analysis the tools used were  Python and Pandas library to analyze school district data and trends in school performance
-## Key Obejectives 
+## Key Objectives 
 * To create the district and school summary DataFrames.
 * To Calculate the top 5 and bottom 5 performing schools.
 * To calculate the average math and reading score for students in each grade level at each school.
